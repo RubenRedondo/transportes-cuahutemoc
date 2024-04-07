@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 30 31">
+  <g id="Grupo_21790" data-name="Grupo 21790" transform="translate(-322 -234.5)">
+    <g id="Grupo_21494" data-name="Grupo 21494">
+      <g id="Grupo_21491" data-name="Grupo 21491" transform="translate(322 237.924)">
+        <rect id="Rectángulo_6902" data-name="Rectángulo 6902" width="2.152" height="30" rx="1.076" transform="translate(0 2.152) rotate(-90)" fill="#006729"/>
+      </g>
+      <g id="Trazado_12292" data-name="Trazado 12292" transform="translate(328 234.5)" fill="#fff">
+        <path d="M 4.5 8 C 2.570090055465698 8 1 6.429910182952881 1 4.5 C 1 2.570090055465698 2.570090055465698 1 4.5 1 C 6.429910182952881 1 8 2.570090055465698 8 4.5 C 8 6.429910182952881 6.429910182952881 8 4.5 8 Z" stroke="none"/>
+        <path d="M 4.5 2 C 3.121500015258789 2 2 3.121500015258789 2 4.5 C 2 5.878499984741211 3.121500015258789 7 4.5 7 C 5.878499984741211 7 7 5.878499984741211 7 4.5 C 7 3.121500015258789 5.878499984741211 2 4.5 2 M 4.5 0 C 6.98528003692627 0 9 2.01471996307373 9 4.5 C 9 6.98528003692627 6.98528003692627 9 4.5 9 C 2.01471996307373 9 0 6.98528003692627 0 4.5 C 0 2.01471996307373 2.01471996307373 0 4.5 0 Z" stroke="none" fill="#e60018"/>
+      </g>
+    </g>
+    <g id="Grupo_21496" data-name="Grupo 21496">
+      <g id="Grupo_21493" data-name="Grupo 21493" transform="translate(322 259.924)">
+        <rect id="Rectángulo_6902-2" data-name="Rectángulo 6902" width="2.152" height="30" rx="1.076" transform="translate(0 2.152) rotate(-90)" fill="#006729"/>
+      </g>
+      <g id="Elipse_1331" data-name="Elipse 1331" transform="translate(328 256.5)" fill="#fff" stroke="#006729" stroke-width="2">
+        <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+        <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_21495" data-name="Grupo 21495">
+      <g id="Grupo_21492" data-name="Grupo 21492" transform="translate(322 248.924)">
+        <rect id="Rectángulo_6902-3" data-name="Rectángulo 6902" width="2.152" height="30" rx="1.076" transform="translate(0 2.152) rotate(-90)" fill="#006729"/>
+      </g>
+      <g id="Elipse_1330" data-name="Elipse 1330" transform="translate(338 245.5)" fill="#fff" stroke="#006729" stroke-width="2">
+        <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+        <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
